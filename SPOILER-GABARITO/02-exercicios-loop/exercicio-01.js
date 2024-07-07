@@ -3,7 +3,7 @@
 // Escreva um programa que some todos os números 
 // de 1 até um número fornecido pelo usuário (N).
 
-let N = parseInt(prompt("Digite um número:"));
+let N = prompt("Digite um número:");
 let soma = 0;
 for (let i = 1; i <= N; i++) {
     soma += i;
